@@ -1,0 +1,134 @@
+# 🏪 Supermarket Sales Dashboard
+
+> Interactive sales dashboard built with **Google Sheets** analyzing **1,000+ transactions** across 3 cities, 6 product lines, and 3 months of sales data.
+
+---
+
+## 📊 Live Dashboard
+
+**[Click Here to View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/edit?usp=sharing)**
+
+*Note: Make a copy (File → Make a Copy) to interact with filters and charts*
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Overview](visualizations/01_dashboard_overview.png)
+
+---
+
+## 🎯 Project Objective
+
+Build an **interactive sales dashboard** that helps business stakeholders:
+- Track sales performance across branches
+- Identify top-selling product categories
+- Understand customer behavior patterns
+- Monitor KPIs in real-time
+- Make data-driven business decisions
+
+---
+
+## 📈 Dashboard Features
+
+### 1️⃣ Key Performance Indicators (KPIs)
+| KPI | Value |
+|-----|-------|
+| **Total Revenue** | $322,966 |
+| **Total Profit** | $15,379 |
+| **Average Transaction** | $307 |
+| **Average Rating** | 6.97 / 10 |
+| **Total Transactions** | 1,000+ |
+
+### 2️⃣ 7 Interactive Charts
+
+| # | Chart Type | Purpose |
+|---|------------|---------|
+| 1 | **Bar Chart** | Revenue by Product Line |
+| 2 | **Line Chart** | Monthly Sales Trend |
+| 3 | **Bar Chart** | Sales by City/Branch |
+| 4 | **Donut Chart** | Customer Type Breakdown |
+| 5 | **Pie Chart** | Payment Method Distribution |
+| 6 | **Stacked Bar** | Gender vs. Product Line |
+| 7 | **Scatter Plot** | Rating Analysis |
+
+### 3️⃣ Interactive Features
+- **Slicers** for filtering by date, city, and product
+- **Dynamic charts** that update with filters
+- **KPI cards** showing real-time metrics
+- **Mobile responsive** design
+
+---
+
+## 💡 Key Business Insights
+
+### 1. Revenue Leaders
+- **Food & Beverages** generates highest revenue (**$56,144**)
+- **Electronic Accessories** is most profitable
+- All categories perform similarly ($52K-$56K)
+
+### 2. Customer Behavior
+- **Members** contribute **52%** of total revenue
+- Members spend **13% more** per transaction ($326 vs $288)
+- **E-wallet** is preferred payment (42%)
+
+### 3. Geographic Performance
+- **Naypyitaw** slightly outperforms ($110,000+)
+- All 3 cities show balanced performance
+
+### 4. Operational Insights
+- **Peak Hours:** 10:00 AM - 2:00 PM
+- **Best Month:** March (15% growth)
+
+---
+
+## 🎯 Business Recommendations
+
+| Priority | Recommendation | Expected Impact |
+|----------|----------------|-----------------|
+| **High** | Launch member loyalty program | +13% retention |
+| **High** | Promote e-wallet with cashback | +13% digital payments |
+| **Medium** | Increase Food & Beverages inventory | +10% revenue |
+| **Medium** | Replicate Naypyitaw's strategies | +15% other cities |
+| **Low** | Improve low-rated categories | +0.5 rating points |
+
+---
+
+## 📊 Dashboard Screenshots
+
+### 1. Executive Overview
+![Overview](screenshots/01_dashboard_overview.png)
+
+### 2. Revenue by Product Line
+![Revenue by Product](screenshots/02_revenue_by_product.png)
+
+### 3. Monthly Sales Trend
+![Monthly Trend](screenshots/03_monthly_trend.png)
+
+### 4. Sales by City
+![Sales by City](screenshots/04_sales_by_city.png)
+
+### 5. Customer Type Breakdown
+![Customer Type](screenshots/05_customer_breakdown.png)
+
+### 6. Payment Methods
+![Payment Methods](screenshots/06_payment_methods.png)
+
+### 7. Rating Analysis
+![Rating Analysis](screenshots/07_rating_distribution.png)
+
+---
+
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|------|---------|EXCEL|
+| **Google Sheets** | Data cleaning, analysis, dashboard creation |
+| **Google Sheets Charts** | 7 interactive visualizations |
+| **Pivot Tables** | Data aggregation and summarization |
+| **Slicers** | Interactive filtering |
+| **KPI Cards** | Key metrics tracking |
+
+---
+
+
